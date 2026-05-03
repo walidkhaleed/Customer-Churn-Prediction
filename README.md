@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction & ROI Analyzer
+# Customer Churn Prediction & ROI Analyzer
 
 ## Project Overview
 This project focuses on predicting customer churn in the telecom industry and translating those machine learning predictions into direct financial savings. It includes an end-to-end classification pipeline and an interactive web application that acts as a "Churn Risk Analyzer" for stakeholders.
